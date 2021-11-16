@@ -1,7 +1,7 @@
 # Web-Scraping-using-selenium
 
+![Snipaste_2021-11-16_16-32-34](https://user-images.githubusercontent.com/45611227/142005236-69cca913-04e0-4368-a448-2fac7dd8b5c8.png)
 
-![Snipaste_2021-11-16_16-14-49](https://user-images.githubusercontent.com/45611227/142003086-e0553fb4-a888-4fca-9c07-399a33acd77b.png)
 
 
 <div align="center" id="top"> 
@@ -50,8 +50,7 @@ The following tools were used in the project:
 
 ```bash
 # Clone this project
-$ gir clone https://github.com/ahmednawaad/Supervised-learning-Examples.git
-
+$ gir clone https://github.com/ahmednawaad/Web-Scraping-using-selenium.git
 
 ```
 
